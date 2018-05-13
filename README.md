@@ -1,5 +1,5 @@
-Hi there! 
-This is (_**Paranjoy Paul**_) , a junior year undergratuate student in the department of _Electrical and Electronics Engineering_ ,[NIT TRICHY](https://www.nitt.edu) .  
+Hi there!  
+I'm _**Paranjoy Paul**_ , a junior year undergratuate student from the department of _Electrical and Electronics Engineering_ ,[NIT TRICHY](https://www.nitt.edu) .  
 My areas of interest include anything and everything related to _logic_ and _mathematics_. 
 > I also like _coding_.
 
