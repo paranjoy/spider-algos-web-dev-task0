@@ -6,4 +6,4 @@ I want to be a _Data Scientist_ in the near future.
 
 If you like **inspirational quote**, _look below_ or else _ignore_.  
   
-![: )](http://knowyourmeme.com/memes/life-hacks)
+![](http://i0.kym-cdn.com/entries/icons/original/000/013/724/tumblr_mrgqfnBWoI1sustufo1_500.jpg)
