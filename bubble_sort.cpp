@@ -1,10 +1,11 @@
+//Paranjoy107117068
 #include<stdio.h>
 int main()
 {
 	int arr[100],n,i,j,temp;
-	printf("ënter the number of elements");
+	printf("Ã«nter the number of elements");
 	scanf("%d",&n);
-	printf("ënter %d integers \n",n);
+	printf("Ã«nter %d integers \n",n);
 	for(i=0;i<n;i++)
 	{
 		scanf("%d",&arr[i]);
